@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix="
+game=Creativity Community
+stayinchannel=true
+songinstatus=false
+token=NTQ5OTk2ODM2MzU0NjU0MjM5.D1cEAg.mYVjK9IuqJwBy5teiAYNobHGI2E
